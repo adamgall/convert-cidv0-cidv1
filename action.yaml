@@ -8,5 +8,5 @@ outputs:
   cidv1:
     description: v1 version of v0 CID
 runs:
-  using: node12
+  using: node16
   main: index.js

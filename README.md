@@ -15,7 +15,7 @@ Example usage:
 ```yaml
 - name: Convert CIDV0
   id: convert_cidv0
-  uses: uniswap/convert-cidv0-cidv1@v1.0.0
+  uses: adamgall/convert-cidv0-cidv1@v1.0.0
   with:
     cidv0: Qm...
 
